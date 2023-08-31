@@ -1,0 +1,4 @@
+ALFRED/
+**/__pycache__/
+.vscode/
+.env

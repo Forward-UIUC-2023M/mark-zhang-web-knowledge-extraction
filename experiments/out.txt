@@ -1,0 +1,2653 @@
+[ University of Illinois Urbana-Champaign  ](http://illinois.edu/)
+
+  * [ Alumni ](/alumni)
+  * [ Corporate ](/corporate)
+  * [ People ](/about/people)
+  * [ My.CS ](https://my.cs.illinois.edu)
+
+[ University of Illinois at Urbana-Champaign ](https://illinois.edu)
+
+[ The Grainger College of Engineering ](https://grainger.illinois.edu)
+
+[ Computer Science  ](/)
+
+_ _ Search
+
+Menu
+
+[ _ _ Search  ](/search)
+
+  * [ About  ](/about)
+
+##  [ About ](/about)
+
+    * [ Rankings & Statistics ](/about/statistics)
+    * [ Contact Us & Office Locations ](/about/contact-us)
+    * [ History Timeline ](/about/history-timeline)
+    * [ Accreditation ](/about/accreditation)
+    * [ Values & Code of Conduct ](/about/values)
+    * [ CS CARES Committee ](/about/cs-cares)
+      * [ Contact CS CARES ](/about/cs-cares/contact)
+      * [ Governance ](/about/cs-cares/governance)
+      * [ Members ](/about/cs-cares/members)
+      * [ Resources ](/about/cs-cares/resources)
+
+--- 
+
+    * [ People ](/about/people)
+
+      * [ All Faculty ](/about/people/all-faculty)
+      * [ Department Faculty ](/about/people/department-faculty)
+      * [ Affiliate Faculty ](/about/people/affiliate-faculty)
+      * [ Adjunct Faculty ](/about/people/adjunct-faculty)
+      * [ Emeritus Faculty ](/about/people/emeritus-faculty)
+      * [ Postdoctoral Researchers ](/about/people/postdocs)
+      * [ Staff ](/about/people/staff)
+        * [ Office of the Department Head ](/about/people/staff/office-department-head)
+        * [ Communications & Engagement Team ](/about/people/staff/communications-engagement-team)
+        * [ Undergraduate Advising Office ](/about/people/staff/undergraduate-advising-office)
+        * [ Graduate Advising Office ](/about/people/staff/graduate-advising-office)
+        * [ Instructional Development Team ](/about/people/staff/instructional-development-team)
+        * [ Business Office ](/about/people/staff/business-office)
+
+        * [ Faculty Support Contacts ](/about/people/staff/faculty-support-contacts)
+        * [ Facilities, Shipping and Receiving ](/about/people/staff/facilities-shipping-and-receiving)
+      * [ Graduating PhD Students ](/about/people/graduating-phd-students)
+    * [ Open Positions ](/about/positions)
+      * [ Faculty Positions ](/about/positions/faculty-positions)
+      * [ Postdoctoral Positions ](/about/positions/postdoctoral)
+        * [ Future Faculty Fellows ](/about/positions/postdoctoral/future-faculty-fellows)
+      * [ Staff Positions ](/about/positions/staff-positions)
+      * [ Choose Illinois Computer Science ](/about/positions/choose-illinois-computer-science)
+
+--- 
+
+    * [ Awards ](/about/awards)
+      * [ 2021 Celebration of Excellence ](/about/awards/celebration)
+      * [ 2022 Celebration of Excellence ](/about/awards/celebration-2022)
+      * [ 2023 Celebration of Excellence ](/about/awards/celebration-2023)
+
+      * [ Student Award Resources ](/about/awards/resources)
+      * [ Faculty Awards ](/about/awards/faculty-awards)
+        * [ Chairs and Professorships ](/about/awards/faculty-awards/chairs-and-professorships)
+        * [ National & International Awards ](/about/awards/faculty-awards/national-international-awards)
+        * [ University of Illinois Awards ](/about/awards/faculty-awards/university-illinois-awards)
+      * [ Undergraduate Scholarships & Awards ](/about/awards/undergraduate-scholarships-awards)
+      * [ Graduate Fellowships & Awards ](/about/awards/graduate-fellowships-awards)
+      * [ Alumni Awards ](/about/awards/alumni-awards)
+        * [ Alumni Awards Past Recipients ](/about/awards/alumni-awards/alumni-awards-past-recipients)
+        * [ National & International Awards ](/about/awards/alumni-awards/national-international-awards)
+        * [ University of Illinois Awards ](/about/awards/alumni-awards/university-illinois-awards)
+
+      * [ Staff Awards ](/about/awards/staff-awards)
+
+--- 
+
+    * [ Calendar ](/about/calendar)
+      * [ All Events ](/about/calendar/all)
+      * [ Department Events ](/about/calendar/department)
+      * [ Speaker Series ](/about/calendar/speakers)
+      * [ Graduate Events ](/about/calendar/graduate)
+      * [ Undergraduate Events ](/about/calendar/undergraduate)
+      * [ Corporate Events ](/about/calendar/corporate)
+      * [ CS CARES Events ](/about/calendar/cscares)
+      * [ Student Group Events ](/about/calendar/student-groups)
+
+  * [ Admissions  ](/admissions)
+
+##  Ready to apply? Your path to CS at Illinois begins here.
+
+[ Start Here ](https://admissions.illinois.edu/apply)
+
+##  [ Admissions ](/admissions)
+
+    * [ Admitted Students ](/admissions/admitted)
+    * [ Undergraduate Admissions ](/admissions/undergraduate)
+      * [ Apply Now ](https://admissions.illinois.edu/apply)
+      * [ Degree & Program Options ](/academics/undergraduate/degree-program-options)
+
+      * [ Application Deadlines ](https://admissions.illinois.edu/Apply/Freshman/dates)
+      * [ Applications Process & Requirements ](https://admissions.illinois.edu/Apply/Freshman/process)
+      * [ Transfer Students ](/admissions/undergraduate/transfer-students)
+      * [ Housing ](https://www.housing.illinois.edu)
+      * [ Accreditation ](/about-us/accreditation)
+
+    * [ Graduate Admissions ](/admissions/graduate)
+      * [ Apply Now ](https://grad.illinois.edu/admissions/apply)
+      * [ Degree & Program Options ](/admissions/graduate/degree-program-options)
+        * [ Professional Master of Computer Science (MCS) Program ](/admissions/graduate/degree-program-options/professional-master-computer-science-mcs-program)
+      * [ Application Deadlines ](/admissions/graduate/application-deadlines)
+      * [ Applications Process & Requirements ](/admissions/graduate/applications-process-requirements)
+
+        * [ Additional Required Application Materials for International Students ](/admissions/graduate/applications-process-requirements/additional-required-application-materials)
+        * [ Application Fee Waivers ](/admissions/graduate/applications-process-requirements/application-fee-waivers)
+        * [ Data Structures Proficiency Exam ](/admissions/graduate/applications-process-requirements/data-structures-proficiency-exam)
+      * [ Application Checklist ](/admissions/graduate/application-checklist)
+      * [ FAQs ](/admissions/graduate/faqs)
+        * [ iCAN FAQs ](/admissions/graduate/faqs/ican-faqs)
+        * [ Online MCS FAQs ](/admissions/graduate/faqs/online-mcs-faqs)
+      * [ Check Application Status ](https://choose.illinois.edu/apply/)
+    * [ Impact of an Illinois CS Degree ](/admissions/impact-illinois-cs-degree)
+    * [ Financial Aid ](/admissions/financial-aid)
+
+  * [ Academics  ](/academics)
+
+##  Ready to apply? Your path to CS at Illinois begins here.
+
+
+[ Start Here ](https://admissions.illinois.edu/apply)
+
+##  [ Academics ](/academics)
+
+    * [ Instructional Area ](/academics/instructional)
+    * [ Undergraduate Academics ](/academics/undergraduate)
+      * [ Degree & Program Options ](/academics/undergraduate/degree-program-options)
+        * [ B.S. in Computer Science ](/academics/undergraduate/degree-program-options/bs-computer-science)
+        * [ B.S. in Mathematics & Computer Science ](/academics/undergraduate/degree-program-options/bs-mathematics-computer-science)
+        * [ B.S. in Statistics & Computer Science ](/academics/undergraduate/degree-program-options/bs-statistics-computer-science)
+        * [ CS Minor ](/academics/undergraduate/degree-program-options/minor-computer-science)
+        * [ CS + X Degree Programs ](/academics/undergraduate/degree-program-options/cs-x-degree-programs)
+          * [ CS + Advertising ](/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-advertising)
+
+          * [ CS + Animal Sciences ](/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-animal-sciences)
+          * [ CS + Anthropology ](/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-anthropology)
+          * [ CS + Astronomy ](/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-astronomy)
+          * [ CS + Chemistry ](/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-chemistry)
+          * [ CS + Crop Sciences ](/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-crop-sciences)
+          * [ CS + Economics ](/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-economics)
+          * [ CS + Education ](/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-education)
+
+          * [ CS + Geography & Geographic Information Science ](/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-geography)
+          * [ CS + Linguistics ](/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-linguistics)
+          * [ CS + Music ](/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-music)
+          * [ CS + Philosophy ](/academics/undergraduate/degree-program-options/cs-x-degree-programs/computer-science-philosophy)
+          * [ CS + X Degree Requirements & Planning Forms ](/academics/undergraduate/degree-program-options/cs-x-degree-programs/cs-x-degree-requirements)
+        * [ CS Undergraduate Degree Options FAQ ](/academics/undergraduate/degree-program-options/cs-undergraduate-degree-options-faq)
+      * [ Registration ](/academics/undergraduate/registration)
+
+        * [ CS Course Restrictions & Enrollment Caps ](/academics/undergraduate/registration/cs-course-restrictions-enrollment-caps)
+      * [ Policies and Procedures ](/academics/undergraduate/policies-and-procedures)
+      * [ Undergraduate Advising ](/academics/undergraduate/undergraduate-advising)
+      * [ CS Student Opportunity Series (CS SOS) ](/academics/undergraduate/cs-student-opportunity-series-cs-sos)
+      * [ Undergraduate Forms ](/academics/undergraduate/undergraduate-forms)
+      * [ Honors ](/academics/undergraduate/honors)
+      * [ Transfer Students ](/admissions/undergraduate/transfer-students)
+
+    * [ Graduate Academics ](/academics/graduate)
+      * [ PhD Program ](/academics/graduate/phd-program)
+        * [ Final Exam (Thesis Defense) ](/academics/graduate/phd-program/final-exam-thesis-defense)
+        * [ Guidelines for Forming Ph.D. Committee ](/academics/graduate/phd-program/guidelines-forming-phd-committee)
+
+        * [ Ph.D. / M.S. Thesis Format Review Guidelines ](/academics/graduate/phd-program/phd-ms-thesis-format-review-guidelines)
+        * [ PhD Program of Study Process ](/academics/graduate/phd-program/phd-program-study-process)
+        * [ PhD Requirements ](/academics/graduate/phd-program/phd-requirements)
+        * [ PhD Time Limits & Milestones ](/academics/graduate/phd-program/phd-time-limits-milestones)
+        * [ Preliminary Exam ](/academics/graduate/phd-program/preliminary-exam)
+        * [ Qualifying Exam ](/academics/graduate/phd-program/qualifying-exam)
+      * [ MS Program ](/academics/graduate/ms-program)
+      * [ MS in Bioinformatics Program ](/academics/graduate/ms-bioinformatics-program)
+      * [ Professional Master of Computer Science ](/academics/graduate/professional-mcs)
+        * [ MCS in Chicago ](/academics/graduate/professional-mcs/chicago-master-computer-science)
+
+        * [ On-Campus Master of Computer Science ](/academics/graduate/professional-mcs/campus-master-computer-science)
+        * [ Online Master of Computer Science ](/academics/graduate/professional-mcs/online-master-computer-science)
+        * [ Online Master of Computer Science in Data Science ](/academics/graduate/professional-mcs/online-master-computer-science-data-science)
+      * [ Fifth Year Master's Programs ](/academics/graduate/fifth-year-masters-programs)
+        * [ 5-year BS-MCS Program ](/academics/graduate/fifth-year-masters-programs/5-year-bs-mcs-program)
+        * [ 5-year BS-MS Program ](/academics/graduate/fifth-year-masters-programs/5-year-bs-ms-program)
+      * [ Illinois Computing Accelerator for Non-Specialists (iCAN) ](/academics/graduate/ican)
+      * [ Graduate Forms & Advising Resources ](/academics/graduate/graduate-forms-advising-resources)
+        * [ EPI Exam Requirements ](/academics/graduate/graduate-forms-advising-resources/epi-exam-requirements)
+
+        * [ Graduate Advising Contacts ](/academics/graduate/graduate-forms-advising-resources/graduate-advising-contacts)
+        * [ Graduate Student Annual Evaluation Process ](/academics/graduate/graduate-forms-advising-resources/graduate-student-annual-evaluation-process)
+        * [ New Graduate Student Resources ](/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources)
+          * [ MCS On-Campus General Advising for Registration ](/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/mcs-campus)
+          * [ MS General Advising for Registration ](/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/ms-general)
+          * [ PhD General Advising for Registration ](/academics/graduate/graduate-forms-advising-resources/new-graduate-student-resources/phd-general)
+        * [ Official Forms ](/academics/graduate/graduate-forms-advising-resources/official-forms)
+
+    * [ Courses ](/academics/courses)
+    * [ Honor Code ](/academics/honor-code)
+    * [ Student Resources ](https://cs.illinois.edu/student-life/student-resources)
+
+  * [ Research  ](/research)
+
+##  Explore visionary research conducted by world-renowned faculty.
+
+[ Learn More ](/research/areas)
+
+##  [ Research ](/research)
+
+    * [ Illinois-Insper Partnership ](/research/insper)
+      * [ Collaborative Research Projects ](/research/insper/projects)
+    * [ NSF Expeditions in Computing: Mind in Vitro ](https://mindinvitro.illinois.edu)
+    * [ Research Areas ](/research/areas)
+      * [ Architecture, Compilers, and Parallel Computing ](/research/areas/architecture-compilers-and-parallel-computing)
+      * [ Artificial Intelligence ](/research/areas/artificial-intelligence)
+      * [ Bioinformatics and Computational Biology ](/research/areas/bioinformatics-and-computational-biology)
+      * [ Computers and Education ](/research/areas/computers-and-education)
+
+      * [ Data and Information Systems ](/research/areas/data-and-information-systems)
+      * [ Interactive Computing ](/research/areas/interactive-computing)
+      * [ Programming Languages, Formal Methods, and Software Engineering ](/research/areas/programming-languages-formal-methods-and-software-engineering)
+      * [ Scientific Computing ](/research/areas/scientific-computing)
+      * [ Security and Privacy ](/research/areas/security-and-privacy)
+      * [ Systems and Networking ](/research/areas/systems-and-networking)
+      * [ Theory and Algorithms ](/research/areas/theory-and-algorithms)
+
+    * [ Speaker Series ](/news/featured-lectures)
+    * [ Corporate Partners ](/corporate#research)
+    * [ Research Overview ](https://ws.engr.illinois.edu/sitemanager/getfile.asp?id=3146)
+    * [ Summer Research ](/research/summer-research)
+    * [ Research Opportunities for Undergraduates ](/research/undergraduate-research)
+
+      * [ Directed Reading Program ](/research/undergraduate-research/DRP)
+      * [ Trick or Research ](/research/undergraduate-research/trick-or-research)
+      * [ Summer Research Program ](/research/undergraduate-research/srp)
+        * [ Summer Research Program Participants ](/research/undergraduate-research/srp/participants)
+
+  * [ News  ](/news)
+
+##  [ News ](/news)
+
+    * [ COVID-19 Projects ](/news/covid-19-projects)
+    * [ Donor Profiles ](/give/donor-profiles)
+    * [ Media Coverage ](/news/media-coverage)
+    * [ E-News ](/news/e-news)
+    * [ Impact Report & Publications ](/news/impact-report-publications)
+    * [ Speaker Series ](/news/speaker-series)
+      * [ Banerjee Lecture ](/news/speaker-series/banerjee-lecture)
+      * [ Donald B. Gillies Memorial Lecture ](/news/speaker-series/donald-b-gillies-memorial-lecture)
+      * [ Equity & Justice in Computing Lectures ](/news/speaker-series/equity-justice)
+
+      * [ Robert Mueller-Thuns Lecture ](/news/speaker-series/robert-mueller-thuns-lecture)
+
+  * [ Student Life  ](/student-life)
+
+##  Pepperell's Ian Skirkey a Two-Time NCAA Gymnastics Champion
+
+[ Read Full Story ](/news/pepperells-ian-skirkey-a-two-time-ncaa-gymnastics-
+champion)
+
+[ News ](/news) | May 12, 2023
+
+##  [ Student Life ](/student-life)
+
+    * [ Overview of CS Student Life ](/student-life/overview-cs-student-life)
+    * [ Student Organizations ](/student-life/student-organizations)
+    * [ Department, College, and Campus Events ](/student-life/department-college-and-campus-events)
+    * [ Student Resources ](/student-life/student-resources)
+    * [ Career Services ](/student-life/career-services)
+    * [ Course Assistants ](/student-life/course-assistants)
+
+  * [ Broadening Participation  ](/broadening-participation-computing)
+
+![](/_sitemanager/viewphoto.aspx?id=16163&s=375)
+
+--- 
+
+New certificate program for college graduates who want a deeper understanding
+
+of computers, algorithms, and programming.
+
+--- 
+
+[ Learn More ](/ican)
+
+##  [ Broadening Participation ](/broadening-participation-computing)
+
+    * [ BPC Departmental Plan ](https://plans.bpcnet.org/UniversityOfIllinois-UrbanaChampaign_ComputerScience_DepartmentalBPCPlan.pdf)
+    * [ BPC Programs & Activities for Students ](/broadening-participation-computing/programs)
+      * [ CS Student Ambassadors/Research Scholars (CS STARS) ](/broadening-participation-computing/programs/csambassadors)
+        * [ CS STARS Participants ](/broadening-participation-computing/programs/csambassadors/participants)
+        * [ CS Student Ambassadors/Research Scholars- Application Information ](/broadening-participation-computing/programs/csambassadors/application)
+      * [ Illinois CS Kickstart ](/broadening-participation-computing/programs/cskickstart)
+      * [ AI4ALL ](/broadening-participation-computing/programs/ai4all)
+        * [ Apply Now ](https://app.smarterselect.com/programs/85551)
+
+      * [ iCAN ](/academics/graduate/ican)
+        * [ Apply Now ](https://grad.illinois.edu/admissions/apply)
+      * [ Summer Research Programs ](https://cs.illinois.edu/research/undergraduate-research/srp)
+    * [ BPC Resources ](/broadening-participation-computing/resources)
+    * [ Cross-Cutting Educational Activities ](/broadening-participation-computing/cross-cutting)
+      * [ BPC Conferences & Workshops ](/broadening-participation-computing/cross-cutting/conferences-workshops)
+      * [ Equity & Justice in Computing Seminar Series ](https://cs.illinois.edu/news/speaker-series/equity-justice)
+    * [ K-12 Outreach & Resources ](/broadening-participation-computing/k-12)
+      * [ K-12 Outreach Programs ](/broadening-participation-computing/k-12/k-12-outreach)
+      * [ K-12 Resources ](/broadening-participation-computing/k-12/k-12-resources)
+    * [ Student Organizations ](https://cs.illinois.edu/student-life/student-organizations)
+
+  * [ Give  ](/give)
+
+
+##  Help ensure that Illinois continues to set a global standard for CS
+research and education.
+
+[ Make a Gift ](/give/give-now)
+
+##  [ Give ](/give)
+
+    * [ Give Now ](/give/give-now)
+    * [ Ways to Give ](/give/ways-give)
+    * [ Donor Profiles ](/give/donor-profiles)
+    * [ Computer Science Visionary Scholarship Donors ](/give/computer-science-visionary-scholarship-donors)
+
+  * [ Alumni ](/alumni)
+  * [ Corporate ](/corporate)
+  * [ People ](/about/people)
+  * [ My.CS ](https://my.cs.illinois.edu)
+
+  * [ Home ](/)
+  * [ About ](/about)
+  * [ People ](/about/people)
+  * All Faculty 
+
+--- 
+
+  * [ Home ](/)
+  * [ About ](/about)
+  * [ People ](/about/people)
+  * All Faculty 
+
+#  All Faculty
+
+--- 
+
+##  [ About ](/about)
+
+  * [ Rankings & Statistics ](/about/statistics)
+  * [ Contact Us & Office Locations ](/about/contact-us)
+  * [ History Timeline ](/about/history-timeline)
+  * [ Accreditation ](/about/accreditation)
+  * [ Values & Code of Conduct ](/about/values)
+
+  * [ CS CARES Committee ](/about/cs-cares)
+    * [ Contact CS CARES ](/about/cs-cares/contact)
+    * [ Governance ](/about/cs-cares/governance)
+    * [ Members ](/about/cs-cares/members)
+    * [ Resources ](/about/cs-cares/resources)
+  * [ People ](/about/people)
+    * [ All Faculty ](/about/people/all-faculty)
+    * [ Department Faculty ](/about/people/department-faculty)
+    * [ Affiliate Faculty ](/about/people/affiliate-faculty)
+    * [ Adjunct Faculty ](/about/people/adjunct-faculty)
+    * [ Emeritus Faculty ](/about/people/emeritus-faculty)
+    * [ Postdoctoral Researchers ](/about/people/postdocs)
+    * [ Staff ](/about/people/staff)
+      * [ Office of the Department Head ](/about/people/staff/office-department-head)
+      * [ Communications & Engagement Team ](/about/people/staff/communications-engagement-team)
+      * [ Undergraduate Advising Office ](/about/people/staff/undergraduate-advising-office)
+
+      * [ Graduate Advising Office ](/about/people/staff/graduate-advising-office)
+      * [ Instructional Development Team ](/about/people/staff/instructional-development-team)
+      * [ Business Office ](/about/people/staff/business-office)
+      * [ Faculty Support Contacts ](/about/people/staff/faculty-support-contacts)
+      * [ Facilities, Shipping and Receiving ](/about/people/staff/facilities-shipping-and-receiving)
+    * [ Graduating PhD Students ](/about/people/graduating-phd-students)
+  * [ Open Positions ](/about/positions)
+    * [ Faculty Positions ](/about/positions/faculty-positions)
+    * [ Postdoctoral Positions ](/about/positions/postdoctoral)
+      * [ Future Faculty Fellows ](/about/positions/postdoctoral/future-faculty-fellows)
+    * [ Staff Positions ](/about/positions/staff-positions)
+    * [ Choose Illinois Computer Science ](/about/positions/choose-illinois-computer-science)
+  * [ Awards ](/about/awards)
+
+    * [ 2021 Celebration of Excellence ](/about/awards/celebration)
+    * [ 2022 Celebration of Excellence ](/about/awards/celebration-2022)
+    * [ 2023 Celebration of Excellence ](/about/awards/celebration-2023)
+    * [ Student Award Resources ](/about/awards/resources)
+    * [ Faculty Awards ](/about/awards/faculty-awards)
+      * [ Chairs and Professorships ](/about/awards/faculty-awards/chairs-and-professorships)
+      * [ National & International Awards ](/about/awards/faculty-awards/national-international-awards)
+      * [ University of Illinois Awards ](/about/awards/faculty-awards/university-illinois-awards)
+    * [ Undergraduate Scholarships & Awards ](/about/awards/undergraduate-scholarships-awards)
+    * [ Graduate Fellowships & Awards ](/about/awards/graduate-fellowships-awards)
+    * [ Alumni Awards ](/about/awards/alumni-awards)
+      * [ Alumni Awards Past Recipients ](/about/awards/alumni-awards/alumni-awards-past-recipients)
+
+      * [ National & International Awards ](/about/awards/alumni-awards/national-international-awards)
+      * [ University of Illinois Awards ](/about/awards/alumni-awards/university-illinois-awards)
+    * [ Staff Awards ](/about/awards/staff-awards)
+  * [ Calendar ](/about/calendar)
+    * [ All Events ](/about/calendar/all)
+    * [ Department Events ](/about/calendar/department)
+    * [ Speaker Series ](/about/calendar/speakers)
+    * [ Graduate Events ](/about/calendar/graduate)
+    * [ Undergraduate Events ](/about/calendar/undergraduate)
+    * [ Corporate Events ](/about/calendar/corporate)
+    * [ CS CARES Events ](/about/calendar/cscares)
+    * [ Student Group Events ](/about/calendar/student-groups)
+
+##  All Faculty
+
+[ Tarek Abdelzaher ](/about/people/all-faculty/zaher)
+
+Sohaib and Sara Abbasi Professor and Willett Faculty Scholar
+
+[ _ _ _ _ ](tel:\(217\) 265-6793)
+
+[ _ _ _ _ ](mailto:zaher@illinois.edu)
+
+--- 
+
+[ Sarita V. Adve ](/about/people/all-faculty/sadve)
+
+
+Richard T. Cheng Professor
+
+[ _ _ _ _ ](tel:\(217\) 333-8461)
+
+[ _ _ _ _ ](mailto:sadve@illinois.edu)
+
+--- 
+
+[ Vikram Adve ](/about/people/all-faculty/vadve)
+
+Donald B. Gillies Professor in Computer Science
+
+[ _ _ _ _ ](tel:\(217\) 244-2016)
+
+[ _ _ _ _ ](mailto:vadve@illinois.edu)
+
+--- 
+
+[ Gul A. Agha ](/about/people/all-faculty/agha)
+
+Research Professor and Professor Emeritus
+
+[ _ _ _ _ ](tel:\(217\) 244-3087)
+
+[ _ _ _ _ ](mailto:agha@illinois.edu)
+
+--- 
+
+[ Narendra Ahuja ](/about/people/all-faculty/n-ahuja)
+
+Research Professor, and Donald Biggar Willett Professor Emeritus in Electrical
+and Computer Engineering
+
+[ _ _ _ _ ](tel:\(217\) 333-1837)
+
+[ _ _ _ _ ](mailto:n-ahuja@illinois.edu)
+
+--- 
+
+[ Ram Alagappan ](/about/people/all-faculty/ramn)
+
+Assistant Professor
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:ramn@illinois.edu)
+
+--- 
+
+[ Abdussalam Alawini ](/about/people/all-faculty/alawini)
+
+Teaching Assistant Professor
+
+[ _ _ _ _ ](tel:\(217\) 300-8116)
+
+
+[ _ _ _ _ ](mailto:alawini@illinois.edu)
+
+--- 
+
+[ Nancy M. Amato ](/about/people/all-faculty/namato)
+
+she/her/hers
+
+Abel Bliss Professor of Engineering and Department Head
+
+[ _ _ _ _ ](tel:\(217\) 333-3426)
+
+[ _ _ _ _ ](mailto:namato@illinois.edu)
+
+--- 
+
+[ Mark A. Anastasio ](/about/people/all-faculty/maa)
+
+Donald Biggar Willett Professor in Engineering Head, Department of
+Bioengineering
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:maa@illinois.edu)
+
+--- 
+
+[ Lawrence Angrave ](/about/people/all-faculty/angrave)
+
+he/him/his
+
+Teaching Professor, Gies RC Evans Innovation Fellow, CITL Fellow
+
+[ _ _ _ _ ](tel:\(217\) 333-1424)
+
+[ _ _ _ _ ](mailto:angrave@illinois.edu)
+
+--- 
+
+[ Brian P. Bailey ](/about/people/all-faculty/bpbailey)
+
+Professor
+
+[ _ _ _ _ ](tel:\(217\) 333-6106)
+
+[ _ _ _ _ ](mailto:bpbailey@illinois.edu)
+
+--- 
+
+[ Arindam Banerjee ](/about/people/all-faculty/arindamb)
+
+Founder Professor in Engineering
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:arindamb@illinois.edu)
+
+--- 
+
+
+[ Adam Bates ](/about/people/all-faculty/batesa)
+
+Associate Professor
+
+[ _ _ _ _ ](tel:\(217\) 300-4653)
+
+[ _ _ _ _ ](mailto:batesa@illinois.edu)
+
+--- 
+
+[ Mattox Alan Beckman ](/about/people/all-faculty/mattox)
+
+Teaching Associate Professor
+
+[ _ _ _ _ ](tel:\(217\) 265-0731)
+
+[ _ _ _ _ ](mailto:mattox@illinois.edu)
+
+--- 
+
+[ Suma Bhat ](/about/people/all-faculty/spbhat2)
+
+Assistant Professor, Electrical and Computer Engineering
+
+[ _ _ _ _ ](tel:\(217\) 244-6187)
+
+[ _ _ _ _ ](mailto:spbhat2@illinois.edu)
+
+--- 
+
+[ Catherine Lesley Blake ](/about/people/all-faculty/clblake)
+
+she/her/hers
+
+Associate Professor, Information Sciences
+
+[ _ _ _ _ ](tel:\(217\) 333-0115)
+
+[ _ _ _ _ ](mailto:clblake@illinois.edu)
+
+--- 
+
+[ Nikita Borisov ](/about/people/all-faculty/nikita)
+
+Professor, Electrical and Computer Engineering
+
+[ _ _ _ _ ](tel:\(217\) 244-5385)
+
+[ _ _ _ _ ](mailto:nikita@illinois.edu)
+
+--- 
+
+[ Timothy Bretl ](/about/people/all-faculty/tbretl)
+
+he/him/his
+
+Professor, Aerospace Engineering
+
+
+[ _ _ _ _ ](tel:\(217\) 244-3126)
+
+[ _ _ _ _ ](mailto:tbretl@illinois.edu)
+
+--- 
+
+[ Robert J. Brunner ](/about/people/all-faculty/bigdog)
+
+Professor, Astronomy
+
+[ _ _ _ _ ](tel:\(217\) 244-6099)
+
+[ _ _ _ _ ](mailto:bigdog@illinois.edu)
+
+--- 
+
+[ Matthew Caesar ](/about/people/all-faculty/caesar)
+
+Professor
+
+[ _ _ _ _ ](tel:\(847\) 323-2968)
+
+[ _ _ _ _ ](mailto:caesar@illinois.edu)
+
+--- 
+
+[ Roy H. Campbell ](/about/people/all-faculty/rhc)
+
+Sohaib and Sara Abbasi Professor Emeritus
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:rhc@illinois.edu)
+
+--- 
+
+[ George Chacko ](/about/people/all-faculty/chackoge)
+
+Research Associate Professor
+
+[ _ _ _ _ ](tel:\(217\) 244-1420)
+
+[ _ _ _ _ ](mailto:chackoge@illinois.edu)
+
+--- 
+
+[ Geoffrey Werner Challen ](/about/people/all-faculty/challen)
+
+Teaching Associate Professor
+
+[ _ _ _ _ ](tel:\(217\) 300-6150)
+
+[ _ _ _ _ ](mailto:challen@illinois.edu)
+
+--- 
+
+[ Timothy Moon-Yew Chan ](/about/people/all-faculty/tmc)
+
+Founder Professor in Engineering
+
+
+[ _ _ _ _ ](tel:\(217\) 300-1097)
+
+[ _ _ _ _ ](mailto:tmc@illinois.edu)
+
+--- 
+
+[ Karthekeyan Chandrasekaran ](/about/people/all-faculty/karthe)
+
+Associate Professor, Industrial and Enterprise Systems Engineering
+
+[ _ _ _ _ ](tel:\(217\) 300-1160)
+
+[ _ _ _ _ ](mailto:karthe@illinois.edu)
+
+--- 
+
+[ Eshwar Chandrasekharan ](/about/people/all-faculty/eshwar)
+
+he/him/his
+
+Assistant Professor
+
+[ _ _ _ _ ](tel:\(217\) 244-8872)
+
+[ _ _ _ _ ](mailto:eshwar@illinois.edu)
+
+--- 
+
+[ Kevin Chenchuan Chang ](/about/people/all-faculty/kcchang)
+
+Professor
+
+[ _ _ _ _ ](tel:\(217\) 244-2919)
+
+[ _ _ _ _ ](mailto:kcchang@illinois.edu)
+
+--- 
+
+[ Chandra Sekhar Chekuri ](/about/people/all-faculty/chekuri)
+
+Paul and Cynthia Saylor Professor
+
+[ _ _ _ _ ](tel:\(217\) 265-0705)
+
+[ _ _ _ _ ](mailto:chekuri@illinois.edu)
+
+--- 
+
+[ Deming Chen ](/about/people/all-faculty/dchen)
+
+Professor, Electrical and Computer Engineering
+
+[ _ _ _ _ ](tel:\(217\) 244-3922)
+
+[ _ _ _ _ ](mailto:dchen@illinois.edu)
+
+--- 
+
+
+[ Wendy K Tam Cho ](/about/people/all-faculty/wendycho)
+
+Professor, Political Science
+
+[ _ _ _ _ ](tel:\(217\) 333-9588)
+
+[ _ _ _ _ ](mailto:wendycho@illinois.edu)
+
+--- 
+
+[ Girish Chowdhary ](/about/people/all-faculty/girishc)
+
+Associate Professor
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:girishc@illinois.edu)
+
+--- 
+
+[ Camille Cobb ](/about/people/all-faculty/camillec)
+
+Assistant Professor
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:camillec@illinois.edu)
+
+--- 
+
+[ Benjamin Cosman ](/about/people/all-faculty/bcosman)
+
+Teaching Assistant Professor
+
+[ _ _ _ _ ](tel:\(217\) 244-8874)
+
+[ _ _ _ _ ](mailto:bcosman@illinois.edu)
+
+--- 
+
+[ Katie Cunningham ](/about/people/all-faculty/katcun)
+
+Assistant Professor
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:katcun@illinois.edu)
+
+--- 
+
+[ Ryan Matthew Cunningham ](/about/people/all-faculty/rcunnin2)
+
+Lecturer
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:rcunnin2@illinois.edu)
+
+--- 
+
+[ Neal E. Davis ](/about/people/all-faculty/davis68)
+
+Teaching Assistant Professor
+
+
+[ _ _ _ _ ](tel:\(217\) 244-4181)
+
+[ _ _ _ _ ](mailto:davis68@illinois.edu)
+
+--- 
+
+[ Gerald F. DeJong, II ](/about/people/all-faculty/mrebl)
+
+Professor Emeritus
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:mrebl@illinois.edu)
+
+--- 
+
+[ Payam Delgosha ](/about/people/all-faculty/delgosha)
+
+Research Assistant Professor
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:delgosha@illinois.edu)
+
+--- 
+
+[ Jana Diesner ](/about/people/all-faculty/jdiesner)
+
+Associate Professor, Information Sciences
+
+[ _ _ _ _ ](tel:\(217\) 244-3576)
+
+[ _ _ _ _ ](mailto:jdiesner@illinois.edu)
+
+--- 
+
+[ Minh N. Do ](/about/people/all-faculty/minhdo)
+
+Professor, Electrical and Computer Engineering
+
+[ _ _ _ _ ](tel:\(217\) 244-4782)
+
+[ _ _ _ _ ](mailto:minhdo@illinois.edu)
+
+--- 
+
+[ Katie Driggs-Campbell ](/about/people/all-faculty/krdc)
+
+Assistant Professor, Electrical & Computer Engineering
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:krdc@illinois.edu)
+
+--- 
+
+[ Geir E. Dullerud ](/about/people/all-faculty/dullerud)
+
+
+Professor, Mechanical Science and Engineering
+
+[ _ _ _ _ ](tel:\(217\) 265-5078)
+
+[ _ _ _ _ ](mailto:dullerud@illinois.edu)
+
+--- 
+
+[ Mohammed El-Kebir ](/about/people/all-faculty/melkebir)
+
+Assistant Professor
+
+[ _ _ _ _ ](tel:\(217\) 333-0135)
+
+[ _ _ _ _ ](mailto:melkebir@illinois.edu)
+
+--- 
+
+[ Jeff Erickson ](/about/people/all-faculty/jeffe)
+
+he/him/his
+
+Sohaib and Sara Abbasi Professor
+
+[ _ _ _ _ ](tel:\(217\) 333-6769)
+
+[ _ _ _ _ ](mailto:jeffe@illinois.edu)
+
+--- 
+
+[ Carl Evans ](/about/people/all-faculty/gcevans)
+
+Teaching Assistant Professor
+
+[ _ _ _ _ ](tel:\(217\) 300-5458)
+
+[ _ _ _ _ ](mailto:gcevans@illinois.edu)
+
+--- 
+
+[ Wade A. Fagen-Ulmschneider ](/about/people/all-faculty/waf)
+
+Teaching Associate Professor
+
+[ _ _ _ _ ](tel:\(217\) 300-2812)
+
+[ _ _ _ _ ](mailto:waf@illinois.edu)
+
+--- 
+
+[ Paul Fischer ](/about/people/all-faculty/fischerp)
+
+Professor
+
+[ _ _ _ _ ](tel:\(217\) 300-2031)
+
+[ _ _ _ _ ](mailto:fischerp@illinois.edu)
+
+--- 
+
+
+[ Margaret M. Fleck ](/about/people/all-faculty/mfleck)
+
+Teaching Professor and Director of Undergraduate Programs
+
+[ _ _ _ _ ](tel:\(217\) 265-6838)
+
+[ _ _ _ _ ](mailto:mfleck@illinois.edu)
+
+--- 
+
+[ Christopher Wardlaw Fletcher ](/about/people/all-faculty/cwfletch)
+
+Assistant Professor
+
+[ _ _ _ _ ](tel:\(217\) 300-2309)
+
+[ _ _ _ _ ](mailto:cwfletch@illinois.edu)
+
+--- 
+
+[ Michael A. Forbes ](/about/people/all-faculty/miforbes)
+
+Assistant Professor
+
+[ _ _ _ _ ](tel:\(217\) 300-0454)
+
+[ _ _ _ _ ](mailto:miforbes@illinois.edu)
+
+--- 
+
+[ David Forsyth ](/about/people/all-faculty/daf)
+
+Fulton Watson Copp Chair in Computer Science
+
+[ _ _ _ _ ](tel:\(217\) 265-6851)
+
+[ _ _ _ _ ](mailto:daf@illinois.edu)
+
+--- 
+
+[ H. George Friedman ](/about/people/all-faculty/friedman)
+
+Professor Emeritus
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:friedman@illinois.edu)
+
+--- 
+
+[ Aishwarya Ganesan ](/about/people/all-faculty/aganesn2)
+
+she/her/hers
+
+Assistant Professor
+
+[ _ _ _ _ ](tel:)
+
+
+[ _ _ _ _ ](mailto:aganesn2@illinois.edu)
+
+--- 
+
+[ Jugal Garg ](/about/people/all-faculty/jugal)
+
+Assistant Professor, Industrial and Enterprise Systems Engineering
+
+[ _ _ _ _ ](tel:\(217\) 244-1757)
+
+[ _ _ _ _ ](mailto:jugal@illinois.edu)
+
+--- 
+
+[ Yael Gertner ](/about/people/all-faculty/ygertner)
+
+Teaching Assistant Professor
+
+[ _ _ _ _ ](tel:\(217\) 244-6410)
+
+[ _ _ _ _ ](mailto:ygertner@illinois.edu)
+
+--- 
+
+[ Saugata Ghose ](/about/people/all-faculty/ghose)
+
+Assistant Professor
+
+[ _ _ _ _ ](tel:\(217\) 333-1893)
+
+[ _ _ _ _ ](mailto:ghose@illinois.edu)
+
+--- 
+
+[ Roxana Girju ](/about/people/all-faculty/girju)
+
+Professor, Linguistics
+
+[ _ _ _ _ ](tel:\(217\) 244-3060)
+
+[ _ _ _ _ ](mailto:girju@illinois.edu)
+
+--- 
+
+[ Brighten Godfrey ](/about/people/all-faculty/pbg)
+
+Professor
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:pbg@illinois.edu)
+
+--- 
+
+[ Mani Golparvar Fard ](/about/people/all-faculty/mgolpar)
+
+Professor, Civil and Environmental Engineering
+
+[ _ _ _ _ ](tel:)
+
+
+[ _ _ _ _ ](mailto:mgolpar@illinois.edu)
+
+--- 
+
+[ William D. Gropp ](/about/people/all-faculty/wgropp)
+
+he/him/his
+
+Thomas M. Siebel Chair in Computer Science
+
+[ _ _ _ _ ](tel:\(217\) 244-6720)
+
+[ _ _ _ _ ](mailto:wgropp@illinois.edu)
+
+--- 
+
+[ Kaiyu Guan ](/about/people/all-faculty/kaiyug)
+
+Associate Professor, Natural Resources and Environmental Sciences
+
+[ _ _ _ _ ](tel:\(217\) 300-2690)
+
+[ _ _ _ _ ](mailto:kaiyug@illinois.edu)
+
+--- 
+
+[ Liangyan Gui ](/about/people/all-faculty/lgui)
+
+Research Assistant Professor
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:lgui@illinois.edu)
+
+--- 
+
+[ Carl Gunter ](/about/people/all-faculty/cgunter)
+
+George and Ann Fisher Distinguished Professor in Engineering
+
+[ _ _ _ _ ](tel:\(217\) 244-1982)
+
+[ _ _ _ _ ](mailto:cgunter@illinois.edu)
+
+--- 
+
+[ Elsa Gunter ](/about/people/all-faculty/egunter)
+
+Research Professor and Senior Lecturer
+
+[ _ _ _ _ ](tel:\(217\) 265-6118)
+
+[ _ _ _ _ ](mailto:egunter@illinois.edu)
+
+--- 
+
+
+[ Indranil Gupta ](/about/people/all-faculty/indy)
+
+Professor
+
+[ _ _ _ _ ](tel:\(217\) 265-5517)
+
+[ _ _ _ _ ](mailto:indy@illinois.edu)
+
+--- 
+
+[ Saurabh Gupta ](/about/people/all-faculty/saurabhg)
+
+Assistant Professor, Electrical & Computer Engineering
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:saurabhg@illinois.edu)
+
+--- 
+
+[ Jiawei Han ](/about/people/all-faculty/hanj)
+
+Michael Aiken Chair
+
+[ _ _ _ _ ](tel:\(217\) 333-6903)
+
+[ _ _ _ _ ](mailto:hanj@illinois.edu)
+
+--- 
+
+[ Mehdi T. Harandi ](/about/people/all-faculty/harandi)
+
+Associate Professor Emeritus
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:harandi@illinois.edu)
+
+--- 
+
+[ Sariel Har-Peled ](/about/people/all-faculty/sariel)
+
+Donald Biggar Willett Professor in Engineering
+
+[ _ _ _ _ ](tel:\(217\) 333-4219)
+
+[ _ _ _ _ ](mailto:sariel@illinois.edu)
+
+--- 
+
+[ John C. Hart ](/about/people/all-faculty/jch)
+
+Professor
+
+[ _ _ _ _ ](tel:\(217\) 333-8740)
+
+[ _ _ _ _ ](mailto:jch@illinois.edu)
+
+--- 
+
+
+[ Mark Hasegawa-Johnson ](/about/people/all-faculty/jhasegaw)
+
+Professor, Electrical and Computer Engineering
+
+[ _ _ _ _ ](tel:\(217\) 333-0925)
+
+[ _ _ _ _ ](mailto:jhasegaw@illinois.edu)
+
+--- 
+
+[ Kris K. Hauser ](/about/people/all-faculty/kkhauser)
+
+Professor
+
+[ _ _ _ _ ](tel:\(217\) 244-0821)
+
+[ _ _ _ _ ](mailto:kkhauser@illinois.edu)
+
+--- 
+
+[ Jing Rui He ](/about/people/all-faculty/jingrui)
+
+Associate Professor, School of Information Sciences
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:jingrui@illinois.edu)
+
+--- 
+
+[ David Heath ](/about/people/all-faculty/daheath)
+
+Assistant Professor
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:daheath@illinois.edu)
+
+--- 
+
+[ Michael T. Heath ](/about/people/all-faculty/heath)
+
+Professor and Fulton Watson Copp Chair Emeritus
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:heath@illinois.edu)
+
+--- 
+
+[ Geoffrey Lindsay Herman ](/about/people/all-faculty/glherman)
+
+he/him/his
+
+Severns Teaching Associate Professor
+
+[ _ _ _ _ ](tel:)
+
+
+[ _ _ _ _ ](mailto:glherman@illinois.edu)
+
+--- 
+
+[ Julia Hockenmaier ](/about/people/all-faculty/juliahmr)
+
+Professor and Willett Faculty Scholar
+
+[ _ _ _ _ ](tel:\(217\) 265-6855)
+
+[ _ _ _ _ ](mailto:juliahmr@illinois.edu)
+
+--- 
+
+[ Derek W. Hoiem ](/about/people/all-faculty/dhoiem)
+
+Professor
+
+[ _ _ _ _ ](tel:\(217\) 333-0806)
+
+[ _ _ _ _ ](mailto:dhoiem@illinois.edu)
+
+--- 
+
+[ Yih-Chun Hu ](/about/people/all-faculty/yihchun)
+
+Associate Professor, Electrical and Computer Engineering
+
+[ _ _ _ _ ](tel:\(217\) 333-4220)
+
+[ _ _ _ _ ](mailto:yihchun@illinois.edu)
+
+--- 
+
+[ Jian Huang ](/about/people/all-faculty/jianh)
+
+Assistant Professor, Electrical and Computer Engineering
+
+[ _ _ _ _ ](tel:\(217\) 300-3104)
+
+[ _ _ _ _ ](mailto:jianh@illinois.edu)
+
+--- 
+
+[ Yun Huang ](/about/people/all-faculty/yunhuang)
+
+Associate Professor, Information Sciences
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:yunhuang@illinois.edu)
+
+--- 
+
+[ Wen-mei Hwu ](/about/people/all-faculty/w-hwu)
+
+
+AMD Jerry Sanders Chair Emeritus, Electrical and Computer Engineering
+
+[ _ _ _ _ ](tel:\(217\) 244-8270)
+
+[ _ _ _ _ ](mailto:w-hwu@illinois.edu)
+
+--- 
+
+[ Ravishankar K. Iyer ](/about/people/all-faculty/rkiyer)
+
+Professor, Electrical and Computer Engineering
+
+[ _ _ _ _ ](tel:\(217\) 333-9732)
+
+[ _ _ _ _ ](mailto:rkiyer@illinois.edu)
+
+--- 
+
+[ Reyhaneh Jabbarvand ](/about/people/all-faculty/reyhaneh)
+
+Assistant Professor
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:reyhaneh@illinois.edu)
+
+--- 
+
+[ Sheldon Howard Jacobson ](/about/people/all-faculty/shj)
+
+Founder Professor in Engineering
+
+[ _ _ _ _ ](tel:\(217\) 244-7275)
+
+[ _ _ _ _ ](mailto:shj@illinois.edu)
+
+--- 
+
+[ Heng Ji ](/about/people/all-faculty/hengji)
+
+Professor
+
+[ _ _ _ _ ](tel:\(217\) 244-0862)
+
+[ _ _ _ _ ](mailto:hengji@illinois.edu)
+
+--- 
+
+[ Nan Jiang ](/about/people/all-faculty/nanjiang)
+
+Assistant Professor
+
+[ _ _ _ _ ](tel:\(217\) 300-8275)
+
+[ _ _ _ _ ](mailto:nanjiang@illinois.edu)
+
+--- 
+
+
+[ Laxmikant V. Kale ](/about/people/all-faculty/kale)
+
+Research Professor & Paul and Cynthia Saylor Professor Emeritus
+
+[ _ _ _ _ ](tel:\(217\) 244-0094)
+
+[ _ _ _ _ ](mailto:kale@illinois.edu)
+
+--- 
+
+[ Samuel N. Kamin ](/about/people/all-faculty/kamin)
+
+Professor Emeritus
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:kamin@illinois.edu)
+
+--- 
+
+[ Daniel Kang ](/about/people/all-faculty/ddkang)
+
+Assistant Professor starting Fall 2023
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:ddkang@illinois.edu)
+
+--- 
+
+[ Karrie Karahalios ](/about/people/all-faculty/kkarahal)
+
+Professor
+
+[ _ _ _ _ ](tel:\(217\) 265-6841)
+
+[ _ _ _ _ ](mailto:kkarahal@illinois.edu)
+
+--- 
+
+[ Daniel S. Katz ](/about/people/all-faculty/dskatz)
+
+Research Associate Professor, NCSA
+
+[ _ _ _ _ ](tel:\(217\) 244-8000)
+
+[ _ _ _ _ ](mailto:dskatz@illinois.edu)
+
+--- 
+
+[ Dakshita Khurana ](/about/people/all-faculty/dakshita)
+
+Assistant Professor
+
+[ _ _ _ _ ](tel:\(217\) 244-0658)
+
+[ _ _ _ _ ](mailto:dakshita@illinois.edu)
+
+--- 
+
+
+[ Nam Sung Kim ](/about/people/all-faculty/nskim)
+
+choose not to reply
+
+Professor, Electrical and Computer Engineering
+
+[ _ _ _ _ ](tel:\(217\) 244-9169)
+
+[ _ _ _ _ ](mailto:nskim@illinois.edu)
+
+--- 
+
+[ Volodymyr Kindratenko ](/about/people/all-faculty/kindrtnk)
+
+he/him/his
+
+Research Associate Professor, NCSA
+
+[ _ _ _ _ ](tel:\(217\) 265-0209)
+
+[ _ _ _ _ ](mailto:kindrtnk@illinois.edu)
+
+--- 
+
+[ Alex Kirlik ](/about/people/all-faculty/kirlik)
+
+Professor Emeritus
+
+[ _ _ _ _ ](tel:\(217\) 778-8166)
+
+[ _ _ _ _ ](mailto:kirlik@illinois.edu)
+
+--- 
+
+[ Andreas Paul Eberhard Kloeckner ](/about/people/all-faculty/andreask)
+
+Associate Professor
+
+[ _ _ _ _ ](tel:\(217\) 244-6401)
+
+[ _ _ _ _ ](mailto:andreask@illinois.edu)
+
+--- 
+
+[ Bill Kramer ](/about/people/all-faculty/wtkramer)
+
+choose not to reply
+
+Research Professor
+
+[ _ _ _ _ ](tel:\(217\) 333-6260)
+
+[ _ _ _ _ ](mailto:wtkramer@illinois.edu)
+
+--- 
+
+[ Robin Hillary Kravets ](/about/people/all-faculty/rhk)
+
+
+Professor and Director of Graduate Programs
+
+[ _ _ _ _ ](tel:\(217\) 244-6026)
+
+[ _ _ _ _ ](mailto:rhk@illinois.edu)
+
+--- 
+
+[ David J. Kuck ](/about/people/all-faculty/kuck)
+
+PROF EMERITUS
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:kuck@illinois.edu)
+
+--- 
+
+[ David J. Kuck ](/about/people/all-faculty/emer-kuck)
+
+Professor Emeritus
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:admin@cs.illinois.edu)
+
+--- 
+
+[ Rakesh Kumar ](/about/people/all-faculty/rakeshk)
+
+Professor, Electrical and Computer Engineering
+
+[ _ _ _ _ ](tel:\(217\) 333-5955)
+
+[ _ _ _ _ ](mailto:rakeshk@illinois.edu)
+
+--- 
+
+[ Ranjitha Kumar ](/about/people/all-faculty/ranjitha)
+
+Associate Professor
+
+[ _ _ _ _ ](tel:\(217\) 300-0953)
+
+[ _ _ _ _ ](mailto:ranjitha@illinois.edu)
+
+--- 
+
+[ H. Chad Lane ](/about/people/all-faculty/hclane)
+
+Associate Professor, Educational Psychology
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:hclane@illinois.edu)
+
+--- 
+
+[ Steven M. LaValle ](/about/people/all-faculty/lavalle)
+
+Professor
+
+
+[ _ _ _ _ ](tel:\(217\) 265-6313)
+
+[ _ _ _ _ ](mailto:lavalle@illinois.edu)
+
+--- 
+
+[ Duncan H. Lawrie ](/about/people/all-faculty/lawrie)
+
+Professor Emeritus
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:lawrie@illinois.edu)
+
+--- 
+
+[ Svetlana Lazebnik ](/about/people/all-faculty/slazebni)
+
+Professor and Willett Faculty Scholar
+
+[ _ _ _ _ ](tel:\(217\) 300-2422)
+
+[ _ _ _ _ ](mailto:slazebni@illinois.edu)
+
+--- 
+
+[ Kirill Levchenko ](/about/people/all-faculty/klevchen)
+
+Associate Professor, Electrical and Computer Engineering
+
+[ _ _ _ _ ](tel:+1 217 300-8620)
+
+[ _ _ _ _ ](mailto:klevchen@illinois.edu)
+
+--- 
+
+[ Colleen M. Lewis ](/about/people/all-faculty/colleenl)
+
+she/her/hers
+
+Associate Professor
+
+[ _ _ _ _ ](tel:\(217\) 244-8891)
+
+[ _ _ _ _ ](mailto:colleenl@illinois.edu)
+
+--- 
+
+[ Bo Li ](/about/people/all-faculty/lbo)
+
+Assistant Professor
+
+[ _ _ _ _ ](tel:\(217\) 300-8141)
+
+[ _ _ _ _ ](mailto:lbo@illinois.edu)
+
+--- 
+
+[ Yunzhu Li ](/about/people/all-faculty/yunzhuli)
+
+he/him/his
+
+
+Assistant Professor starting Fall 2023
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:yunzhuli@illinois.edu)
+
+--- 
+
+[ Hongye Liu ](/about/people/all-faculty/hl314)
+
+Teaching Assistant Professor
+
+[ _ _ _ _ ](tel:\(217\) 244-0858)
+
+[ _ _ _ _ ](mailto:hl314@illinois.edu)
+
+--- 
+
+[ Jane W.-S. Liu ](/about/people/all-faculty/j-liu1)
+
+Professor Emerita
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:j-liu1@illinois.edu)
+
+--- 
+
+[ Bertram Ludaescher ](/about/people/all-faculty/ludaesch)
+
+Professor, Information Sciences
+
+[ _ _ _ _ ](tel:\(217\) 244-3302)
+
+[ _ _ _ _ ](mailto:ludaesch@illinois.edu)
+
+--- 
+
+[ Steven Lumetta ](/about/people/all-faculty/lumetta)
+
+Associate Professor, Electrical and Computer Engineering
+
+[ _ _ _ _ ](tel:\(217\) 244-5564)
+
+[ _ _ _ _ ](mailto:lumetta@illinois.edu)
+
+--- 
+
+[ Darko Marinov ](/about/people/all-faculty/marinov)
+
+Professor and Associate Director of Graduate Programs
+
+[ _ _ _ _ ](tel:\(217\) 265-6117)
+
+[ _ _ _ _ ](mailto:marinov@illinois.edu)
+
+--- 
+
+
+[ Kenton Guadron McHenry ](/about/people/all-faculty/mchenry)
+
+Research Assistant Professor, NCSA
+
+[ _ _ _ _ ](tel:\(217\) 265-5387)
+
+[ _ _ _ _ ](mailto:mchenry@illinois.edu)
+
+--- 
+
+[ Ruta Mehta ](/about/people/all-faculty/rutameht)
+
+Assistant Professor
+
+[ _ _ _ _ ](tel:\(217\) 300-4650)
+
+[ _ _ _ _ ](mailto:rutameht@illinois.edu)
+
+--- 
+
+[ Charith Mendis ](/about/people/all-faculty/charithm)
+
+Assistant Professor
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:charithm@illinois.edu)
+
+--- 
+
+[ Jose Meseguer ](/about/people/all-faculty/meseguer)
+
+Professor
+
+[ _ _ _ _ ](tel:\(217\) 333-6733)
+
+[ _ _ _ _ ](mailto:meseguer@illinois.edu)
+
+--- 
+
+[ M. Dennis Mickunas ](/about/people/all-faculty/mickunas)
+
+Associate Professor Emeritus
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:mickunas@illinois.edu)
+
+--- 
+
+[ Olgica Milenkovic ](/about/people/all-faculty/milenkov)
+
+Professor, Electrical and Computer Engineering
+
+[ _ _ _ _ ](tel:\(217\) 244-7358)
+
+[ _ _ _ _ ](mailto:milenkov@illinois.edu)
+
+--- 
+
+
+[ Andrew Miller ](/about/people/all-faculty/soc1024)
+
+Assistant Professor, Electrical and Computer Engineering
+
+[ _ _ _ _ ](tel:\(217\) 300-4893)
+
+[ _ _ _ _ ](mailto:soc1024@illinois.edu)
+
+--- 
+
+[ Sasa Misailovic ](/about/people/all-faculty/misailo)
+
+Associate Professor
+
+[ _ _ _ _ ](tel:\(217\) 300-4916)
+
+[ _ _ _ _ ](mailto:misailo@illinois.edu)
+
+--- 
+
+[ Sayan Mitra ](/about/people/all-faculty/mitras)
+
+Professor, Electrical and Computer Engineering
+
+[ _ _ _ _ ](tel:\(217\) 333-7824)
+
+[ _ _ _ _ ](mailto:mitras@illinois.edu)
+
+--- 
+
+[ Radhika Mittal ](/about/people/all-faculty/radhikam)
+
+Assistant Professor, Electrical and Computer Engineering
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:radhikam@illinois.edu)
+
+--- 
+
+[ Marco Morales Aguirre ](/about/people/all-faculty/moralesa)
+
+Teaching Associate Professor
+
+[ _ _ _ _ ](tel:\(217\) 244-8896)
+
+[ _ _ _ _ ](mailto:moralesa@illinois.edu)
+
+--- 
+
+[ Klara Nahrstedt ](/about/people/all-faculty/klara)
+
+Grainger Distinguished Chair in Engineering
+
+
+[ _ _ _ _ ](tel:\(217\) 244-6624)
+
+[ _ _ _ _ ](mailto:klara@illinois.edu)
+
+--- 
+
+[ Yee Man (Margaret) Ng ](/about/people/all-faculty/ymn)
+
+Assistant Professor, Journalism and Institute of Communications Research
+
+[ _ _ _ _ ](tel:\(217\) 300-8186)
+
+[ _ _ _ _ ](mailto:ymn@illinois.edu)
+
+--- 
+
+[ David M. Nicol ](/about/people/all-faculty/dmnicol)
+
+Professor, Electrical and Computer Engineering
+
+[ _ _ _ _ ](tel:\(217\) 244-1925)
+
+[ _ _ _ _ ](mailto:dmnicol@illinois.edu)
+
+--- 
+
+[ Michael Nowak ](/about/people/all-faculty/mnowak1)
+
+Teaching Assistant Professor
+
+[ _ _ _ _ ](tel:\(217\) 244-8894)
+
+[ _ _ _ _ ](mailto:mnowak1@illinois.edu)
+
+--- 
+
+[ Idoia Ochoa ](/about/people/all-faculty/idoia)
+
+Assistant Professor, Electrical and Computer Engineering
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:idoia@illinois.edu)
+
+--- 
+
+[ Luke Olson ](/about/people/all-faculty/lukeo)
+
+Professor and Willett Faculty Scholar
+
+[ _ _ _ _ ](tel:\(217\) 244-8422)
+
+[ _ _ _ _ ](mailto:lukeo@illinois.edu)
+
+--- 
+
+
+[ David Padua ](/about/people/all-faculty/padua)
+
+Donald Biggar Willett Professor Emeritus in Engineering
+
+[ _ _ _ _ ](tel:\(217\) 333-4223)
+
+[ _ _ _ _ ](mailto:padua@illinois.edu)
+
+--- 
+
+[ Yongjoo Park ](/about/people/all-faculty/yongjoo)
+
+Assistant Professor
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:yongjoo@illinois.edu)
+
+--- 
+
+[ Madhusudan Parthasarathy ](/about/people/all-faculty/madhu)
+
+Professor
+
+[ _ _ _ _ ](tel:\(217\) 244-1323)
+
+[ _ _ _ _ ](mailto:madhu@illinois.edu)
+
+--- 
+
+[ Sanjay Patel ](/about/people/all-faculty/sjp)
+
+Professor, Electrical and Computer Engineering
+
+[ _ _ _ _ ](tel:\(217\) 333-9219)
+
+[ _ _ _ _ ](mailto:sjp@illinois.edu)
+
+--- 
+
+[ Hao Peng ](/about/people/all-faculty/haopeng)
+
+Assistant Professor starting Fall 2023
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:haopeng@illinois.edu)
+
+--- 
+
+[ Jian Peng ](/about/people/all-faculty/jianpeng)
+
+Associate Professor and Willett Faculty Fellow
+
+[ _ _ _ _ ](tel:\(217\) 300-2825)
+
+[ _ _ _ _ ](mailto:jianpeng@illinois.edu)
+
+--- 
+
+
+[ Leonard B. Pitt ](/about/people/all-faculty/pitt)
+
+Professor Emeritus
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:pitt@illinois.edu)
+
+--- 
+
+[ Maxim Raginsky ](/about/people/all-faculty/maxim)
+
+Professor, Electrical and Computer Engineering
+
+[ _ _ _ _ ](tel:\(217\) 244-1782)
+
+[ _ _ _ _ ](mailto:maxim@illinois.edu)
+
+--- 
+
+[ Lawrence Rauchwerger ](/about/people/all-faculty/rwerger)
+
+he/him/his
+
+Professor
+
+[ _ _ _ _ ](tel:\(217\) 244-0968)
+
+[ _ _ _ _ ](mailto:rwerger@illinois.edu)
+
+--- 
+
+[ Jim Rehg ](/about/people/all-faculty/jrehg)
+
+he/him/his
+
+Professor
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:jrehg@illinois.edu)
+
+--- 
+
+[ John F. Reid ](/about/people/all-faculty/j-reid1)
+
+choose not to reply
+
+Research Professor
+
+[ _ _ _ _ ](tel:\(331\) 666-1113)
+
+[ _ _ _ _ ](mailto:j-reid1@illinois.edu)
+
+--- 
+
+[ Edward M. Reingold ](/about/people/all-faculty/reingold)
+
+Professor Emeritus
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:reingold@illinois.edu)
+
+--- 
+
+[ Ling Ren ](/about/people/all-faculty/renling)
+
+
+Assistant Professor
+
+[ _ _ _ _ ](tel:\(217\) 244-0761)
+
+[ _ _ _ _ ](mailto:renling@illinois.edu)
+
+--- 
+
+[ Talia Ringer ](/about/people/all-faculty/tringer)
+
+they/them/theirs
+
+Assistant Professor
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:tringer@illinois.edu)
+
+--- 
+
+[ Gene E. Robinson ](/about/people/all-faculty/generobi)
+
+Director, Institute for Genomic Biology
+
+[ _ _ _ _ ](tel:\(217\) 265-0309)
+
+[ _ _ _ _ ](mailto:generobi@illinois.edu)
+
+--- 
+
+[ Grigore Rosu ](/about/people/all-faculty/grosu)
+
+Professor
+
+[ _ _ _ _ ](tel:\(217\) 244-7431)
+
+[ _ _ _ _ ](mailto:grosu@illinois.edu)
+
+--- 
+
+[ Romit Roy Choudhury ](/about/people/all-faculty/croy)
+
+Professor, Electrical and Computer Engineering
+
+[ _ _ _ _ ](tel:\(217\) 300-7577)
+
+[ _ _ _ _ ](mailto:croy@illinois.edu)
+
+--- 
+
+[ Bruce R. Schatz ](/about/people/all-faculty/schatz)
+
+Professor, Information Sciences
+
+[ _ _ _ _ ](tel:\(217\) 244-0651)
+
+[ _ _ _ _ ](mailto:schatz@illinois.edu)
+
+--- 
+
+
+[ Alexander Schwing ](/about/people/all-faculty/aschwing)
+
+AssociateProfessor, Electrical and Computer Engineering
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:aschwing@illinois.edu)
+
+--- 
+
+[ Lui Sha ](/about/people/all-faculty/lrs)
+
+Donald B. Gillies Chair in Computer Science
+
+[ _ _ _ _ ](tel:\(217\) 244-1887)
+
+[ _ _ _ _ ](mailto:lrs@illinois.edu)
+
+--- 
+
+[ Eric Gene Shaffer ](/about/people/all-faculty/shaffer1)
+
+Teaching Associate Professor and Associate Director of Undergraduate Programs
+
+[ _ _ _ _ ](tel:\(217\) 265-6590)
+
+[ _ _ _ _ ](mailto:shaffer1@illinois.edu)
+
+--- 
+
+[ Mariana Silva ](/about/people/all-faculty/mfsilva)
+
+Teaching Associate Professor and Education Innovation Fellow
+
+[ _ _ _ _ ](tel:\(217\) 300-6633)
+
+[ _ _ _ _ ](mailto:mfsilva@illinois.edu)
+
+--- 
+
+[ Gagandeep Singh ](/about/people/all-faculty/ggnds)
+
+Assistant Professor
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:ggnds@illinois.edu)
+
+--- 
+
+[ Makrand SINHA ](/about/people/all-faculty/msinha)
+
+
+Assistant Professor starting Fall 2023
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:msinha@illinois.edu)
+
+--- 
+
+[ Robert D. Skeel ](/about/people/all-faculty/skeel)
+
+Professor Emeritus
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:skeel@illinois.edu)
+
+--- 
+
+[ Paris Smaragdis ](/about/people/all-faculty/paris)
+
+Professor and Associate Head for Infrastructure and Operations
+
+[ _ _ _ _ ](tel:\(217\) 265-6893)
+
+[ _ _ _ _ ](mailto:paris@illinois.edu)
+
+--- 
+
+[ Marc Snir ](/about/people/all-faculty/snir)
+
+Research Professor & Michael Faiman Professor Emeritus
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:snir@illinois.edu)
+
+--- 
+
+[ Brad R. Solomon ](/about/people/all-faculty/bradsol)
+
+Teaching Assistant Professor
+
+[ _ _ _ _ ](tel:\(217\) 244-8904)
+
+[ _ _ _ _ ](mailto:bradsol@illinois.edu)
+
+--- 
+
+[ Edgar Solomonik ](/about/people/all-faculty/solomon2)
+
+Associate Professor
+
+[ _ _ _ _ ](tel:\(217\) 300-4794)
+
+[ _ _ _ _ ](mailto:solomon2@illinois.edu)
+
+--- 
+
+[ Elahe Soltanaghai ](/about/people/all-faculty/elahe)
+
+
+Assistant Professor
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:elahe@illinois.edu)
+
+--- 
+
+[ Rayadurgam Srikant ](/about/people/all-faculty/rsrikant)
+
+Professor, Electrical and Computer Engineering
+
+[ _ _ _ _ ](tel:\(217\) 333-2457)
+
+[ _ _ _ _ ](mailto:rsrikant@illinois.edu)
+
+--- 
+
+[ Sarah Gimbert Sterman ](/about/people/all-faculty/ssterman)
+
+she/her/hers
+
+Resarch Assistant Professor
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:ssterman@illinois.edu)
+
+--- 
+
+[ Jimeng Sun ](/about/people/all-faculty/jimeng)
+
+Professor
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:jimeng@illinois.edu)
+
+--- 
+
+[ Hari Sundaram ](/about/people/all-faculty/hs1)
+
+Professor
+
+[ _ _ _ _ ](tel:\(217\) 300-4878)
+
+[ _ _ _ _ ](mailto:hs1@illinois.edu)
+
+--- 
+
+[ Ruby Tahboub ](/about/people/all-faculty/rubyt)
+
+Teaching Assistant Professor
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:rubyt@illinois.edu)
+
+--- 
+
+[ Matus Jan Telgarsky ](/about/people/all-faculty/mjt)
+
+Assistant Professor
+
+[ _ _ _ _ ](tel:\(217\) 300-4507)
+
+
+[ _ _ _ _ ](mailto:mjt@illinois.edu)
+
+--- 
+
+[ Michael Benjamin Tissenbaum ](/about/people/all-faculty/miketiss)
+
+ASST PROF
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:miketiss@illinois.edu)
+
+--- 
+
+[ Hanghang Tong ](/about/people/all-faculty/htong)
+
+Associate Professor
+
+[ _ _ _ _ ](tel:\(217\) 244-0884)
+
+[ _ _ _ _ ](mailto:htong@illinois.edu)
+
+--- 
+
+[ Josep Torrellas ](/about/people/all-faculty/torrella)
+
+Saburo Muroga Professor
+
+[ _ _ _ _ ](tel:\(217\) 244-4148)
+
+[ _ _ _ _ ](mailto:torrella@illinois.edu)
+
+--- 
+
+[ Michael Twidale ](/about/people/all-faculty/twidale)
+
+Professor, Information Sciences
+
+[ _ _ _ _ ](tel:\(217\) 265-0510)
+
+[ _ _ _ _ ](mailto:twidale@illinois.edu)
+
+--- 
+
+[ Luther Tychonievich ](/about/people/all-faculty/luthert)
+
+he/him/his
+
+Teaching Associate Professor
+
+[ _ _ _ _ ](tel:+1 217 333 8609)
+
+[ _ _ _ _ ](mailto:luthert@illinois.edu)
+
+--- 
+
+[ Lav R. Varshney ](/about/people/all-faculty/varshney)
+
+Associate Professor, Electrical and Computer Engineering
+
+
+[ _ _ _ _ ](tel:\(217\) 244-8042)
+
+[ _ _ _ _ ](mailto:varshney@illinois.edu)
+
+--- 
+
+[ Deepak Vasisht ](/about/people/all-faculty/deepakv)
+
+he/him/his
+
+Assistant Professor
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:deepakv@illinois.edu)
+
+--- 
+
+[ Pramod Viswanath ](/about/people/all-faculty/pramodv)
+
+he/him/his
+
+Professor, Electrical and Computer Engineering
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:pramodv@illinois.edu)
+
+--- 
+
+[ Mahesh Viswanathan ](/about/people/all-faculty/vmahesh)
+
+Professor and Associate Head for Academics
+
+[ _ _ _ _ ](tel:\(217\) 265-6591)
+
+[ _ _ _ _ ](mailto:vmahesh@illinois.edu)
+
+--- 
+
+[ Gang Wang ](/about/people/all-faculty/gangw)
+
+Assistant Professor
+
+[ _ _ _ _ ](tel:\(217\) 244-1008)
+
+[ _ _ _ _ ](mailto:gangw@illinois.edu)
+
+--- 
+
+[ Shaowen Wang ](/about/people/all-faculty/shaowen)
+
+Professor, Geography
+
+[ _ _ _ _ ](tel:\(217\) 333-7608)
+
+[ _ _ _ _ ](mailto:shaowen@illinois.edu)
+
+--- 
+
+[ Shenlong Wang ](/about/people/all-faculty/shenlong)
+
+Assistant Professor
+
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:shenlong@illinois.edu)
+
+--- 
+
+[ Yang Wang ](/about/people/all-faculty/yvw)
+
+Associate Professor, Information Sciences
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:yvw@illinois.edu)
+
+--- 
+
+[ Yuxiong Wang ](/about/people/all-faculty/yxw)
+
+Assistant Professor
+
+[ _ _ _ _ ](tel:\(217\) 244-8913)
+
+[ _ _ _ _ ](mailto:yxw@illinois.edu)
+
+--- 
+
+[ Tandy Warnow ](/about/people/all-faculty/warnow)
+
+Grainger Distinguished Chair in Engineering and Associate Head for Research
+and Faculty Development
+
+[ _ _ _ _ ](tel:\(217\) 300-3087)
+
+[ _ _ _ _ ](mailto:warnow@illinois.edu)
+
+--- 
+
+[ Tiffani L. Williams ](/about/people/all-faculty/tiffani)
+
+Teaching Professor and Director of Onramp Programs
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:tiffani@illinois.edu)
+
+--- 
+
+[ Marianne S. Winslett ](/about/people/all-faculty/winslett)
+
+Professor Emerita
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:winslett@illinois.edu)
+
+--- 
+
+[ Michael Joseph Woodley ](/about/people/all-faculty/mwoodley)
+
+
+Clinical Assistant Professor
+
+[ _ _ _ _ ](tel:\(217\) 244-1971)
+
+[ _ _ _ _ ](mailto:mwoodley@illinois.edu)
+
+--- 
+
+[ Abigail Wooldridge ](/about/people/all-faculty/arwool)
+
+Assistant Professor, Industrial and Enterprise Systems Engineering
+
+[ _ _ _ _ ](tel:\(217\) 300-8086)
+
+[ _ _ _ _ ](mailto:arwool@illinois.edu)
+
+--- 
+
+[ Tianyin Xu ](/about/people/all-faculty/tyxu)
+
+Assistant Professor
+
+[ _ _ _ _ ](tel:\(217\) 300-8117)
+
+[ _ _ _ _ ](mailto:tyxu@illinois.edu)
+
+--- 
+
+[ Wenzhen Yuan ](/about/people/all-faculty/yuanwz)
+
+she/her/hers
+
+Assistant Professor starting Fall 2023
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:yuanwz@illinois.edu)
+
+--- 
+
+[ ChengXiang Zhai ](/about/people/all-faculty/czhai)
+
+Donald Biggar Willett Professor in Engineering
+
+[ _ _ _ _ ](tel:\(217\) 244-4943)
+
+[ _ _ _ _ ](mailto:czhai@illinois.edu)
+
+--- 
+
+[ Lingming Zhang ](/about/people/all-faculty/lingming)
+
+Associate Professor
+
+[ _ _ _ _ ](tel:\(217\) 244-8921)
+
+[ _ _ _ _ ](mailto:lingming@illinois.edu)
+
+--- 
+
+
+[ Han Zhao ](/about/people/all-faculty/hanzhao)
+
+Assistant Professor
+
+[ _ _ _ _ ](tel:)
+
+[ _ _ _ _ ](mailto:hanzhao@illinois.edu)
+
+--- 
+
+[ Craig Zilles ](/about/people/all-faculty/zilles)
+
+he/him/his
+
+Professor and Severns Faculty Scholar
+
+[ _ _ _ _ ](tel:\(217\) 244-0553)
+
+[ _ _ _ _ ](mailto:zilles@illinois.edu)
+
+[ ![University of Illinois Urbana
+Champaign](https://ws.engr.illinois.edu/images/uiuc-footer-wordmark.png)
+](http://illinois.edu/)
+
+[ _ _ Facebook  ](https://www.facebook.com/IllinoisComputerScience) [ _ _
+Twitter  ](https://twitter.com/IllinoisCS) [ _ _ YouTube
+](https://www.youtube.com/user/IllinoisCS) [ _ _ LinkedIn
+](https://www.linkedin.com/school/illinoiscs) [ _ _ Instagram
+](https://www.instagram.com/illinoiscs/)
+
+[ Contact Us ](/about/contact-us)
+
+[ Department of Computer Science ](https://cs.illinois.edu)  
+
+[ Thomas M. Siebel Center for Computer Science ](https://cs.illinois.edu)  
+201 North Goodwin Avenue MC 258  
+Urbana, IL 61801-2302
+
+
+Illinois Computer Science in Chicago  
+200 South Wacker Drive, 7th Floor  
+Chicago, IL 60606
+
+[ The Grainger College of Engineering ](https://grainger.illinois.edu)  
+[ University of Illinois ](https://illinois.edu)
+
+ph: 217-333-3426 (general) | 217-333-4428 (advising)  
+fax: 217-333-3501
+
+General email: [ head@cs.illinois.edu ](mailto:head@cs.illinois.edu)  
+Graduate Advising: [ academic@cs.illinois.edu
+](mailto:academic@cs.illinois.edu)  
+Undergraduate Advising: [ undergrad@cs.illinois.edu
+](mailto:undergrad@cs.illinois.edu)  
+Webmaster: [ grainger-marcom@illinois.edu ](mailto:grainger-
+marcom@illinois.edu?subject=CS_Request)
+
+About Cookies
+
+--- 
+
+[ Copyright ](https://illinois.edu/resources/website/copyright.html)
+
+--- 
+
+[ Privacy Policy ](https://www.vpaa.uillinois.edu/resources/web_privacy)
+
+--- 
+
+Powered by [ SiteManager
+](https://my.engr.illinois.edu/sitemanager/editpage.asp?id=11845) | [ Contact
+Webmaster ](mailto:grainger-marcom@illinois.edu)
+
+_ _ Go to top
+
+##  Cookie Notice
+
+
+We use Cookies on this site to enhance your experience and improve our
+marketing efforts. Click on “About Cookies” to learn more. By continuing to
+browse without changing your browser settings to block or delete Cookies, you
+agree to the storing of Cookies and related technologies on your device. [
+University of Illinois System Cookie Policy
+](https://www.vpaa.uillinois.edu/resources/cookies)
+
+About Cookies  Close this Notice
+
+![Company Logo](https://onetrust.techservices.illinois.edu/consent/26be7d61-20
+17-4ea7-8a8b-8f1704889763/1313bf03-8922-4f3d-888b-f2b857beb57a/logos/82c90554-
+4de8-4a89-baf3-f787458c3507/6d991bae-0699-4372-b9d1-a09bb3947b47/25f102cb-c8f3
+-43e9-a567-ff2544b38eaa/Illinois-Wordmark-Horizontal-Full-Color-RGB.png)
+
+##  About Cookies
+
+Cookies and related technologies (herein “Cookies”) are small text files that
+a website saves on your computer when you visit the site. Cookies the
+University sets are called first-party Cookies. The data collected might be
+
+about you, your device, your preferences, or your login information. This data
+is mostly used to make the website work as expected so, for example, you don’t
+have to keep re-entering your credentials whenever you come back to the site.
+Cookies set by third parties are called third-party Cookies. We use third-
+party Cookies for analyzing website traffic and our advertising and marketing
+efforts. We have divided the Cookies we use into the following categories:
+Strictly Necessary, Performance, Functional, and Targeting. Under each
+category heading below you will find a general description of the Cookies in
+each category. You can change your browser settings to block, delete, or alert
+you to Cookies. The Help menu on the menu bar of most browsers will tell you
+how to do that. However, if you do, you may have to manually adjust
+preferences every time you visit a site and some features may not work as
+intended.  
+[ More information ](https://www.vpaa.uillinois.edu/resources/cookies)
+
+Close
+
+
+###  Cookie Categories
+
+####  Strictly Necessary Cookies
+
+Always Active
+
+Strictly Necessary Cookies are first-party Cookies that are necessary for the
+website to function. They can be either permanent or temporary and are usually
+only set in response to actions made directly by you that amount to a request
+for services, such as logging in or filling in forms. For example, we use
+Strictly Necessary Cookies to handle user registration and login. Some sites
+require the use of Strictly Necessary Cookies to access the site, such as
+University websites requiring University credentialed authentication. If you
+set your browser to block or delete Cookies, you may not be able to access the
+site or some parts of the site will not work.
+
+####  Performance Cookies
+
+Always Active
+
+Performance Cookies allow us to count visits and traffic sources so we can
+measure and improve the performance and effectiveness of University websites.
+
+Performance Cookies also help the University understand which webpages are the
+most and least popular, see how visitors move around the site, and determine
+whether webpage content is relevant to user interests. Performance Cookies may
+be first-party or third party, permanent or temporary, and do not personally
+identify individual visitors. Some Performance Cookies are “analytics” Cookies
+(e.g., Google Analytics), using third-party software tools, which help us
+understand more about how our websites are used and where visitors come from
+by collecting and aggregating anonymous information on the pages visited and
+any advertisements viewed. The University does not take responsibility for the
+collection, use, and management of data by any third-party software tool
+provider unless required to do so by applicable law. If you set your browser
+to block or delete Cookies, some site services and functionalities may not
+work.
+
+####  Functional Cookies
+
+Always Active
+
+
+Functional Cookies enhance the performance and functionality of our websites
+but are non-essential to their use. These permanent Cookies allow our website
+to remember information from your previous visits, such as details you
+submitted before or your previously stated preferences. These Cookies may also
+be used to provide services you request, such as newsletters or publications.
+They may be first- or third-party Cookies that enable services we have added
+to our webpages. If you set your browser to block or delete Cookies, some or
+all of these services may not function properly.
+
+####  Targeting Cookies
+
+Always Active
+
+Targeting Cookies are used to deliver content tailored to your interests and
+may be temporary or permanent. They may also be first-party or third-party
+Cookies. Targeting Cookies are based on uniquely identifying your browser and
+device; they do not store information such as your name. The University may
+
+use targeting Cookies prepared by the University, its third-party contractors,
+or advertising partnersto provide you with personalized University display
+advertising and promotional material about the University and its programs.
+The University may also allow third parties to place Cookies on your device
+that collect and use anonymous information about your visits to, and
+interactions with, our websites to personalize advertisements and promotional
+materials for University goods and services. Targeting Cookies may be used by
+our third-party contractors or our advertising partners to build a profile of
+your interests and show you relevant advertisements on other sites. We may
+share information about your use of our site with our social media,
+advertising, and analytics partners who may combine it with other information
+that you have provided to them or that they have collected from your use of
+their services. If you set your browser to block or delete Cookies, you will
+
+still see advertisements, but they will be less targeted to your interests.
+
+Back Button
+
+###  Back
+
+Search Icon
+
+Filter Icon
+
+Clear
+
+checkbox label  label
+
+Apply  Cancel
+
+Consent  Leg.Interest
+
+checkbox label  label
+
+--- 
+
+checkbox label  label
+
+--- 
+
+checkbox label  label
+
+Close
+
+[ ![Powered by Onetrust](https://onetrust.techservices.illinois.edu/consent/26
+be7d61-2017-4ea7-8a8b-8f1704889763/1313bf03-8922-4f3d-888b-f2b857beb57a/logos/
+static/poweredBy_ot_logo.svg) ](https://www.onetrust.com/products/cookie-
+consent/)
+
+
+
