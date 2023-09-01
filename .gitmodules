@@ -1,0 +1,3 @@
+[submodule "Planning"]
+	path = Planning
+	url = git@github.com:MarkintoshZ/Planning.git
