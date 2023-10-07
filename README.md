@@ -57,9 +57,7 @@ class State(ABC):
         pass
 ```
 
-## Demo video
-
-Include a link to your demo video, which you upload to our shared Google Drive folder (see the instructions for code submission).
+## [Video Demo](https://drive.google.com/file/d/1JA3iC7-YPFbTRj-TjTGz__IBrucTKDgE/view?usp=sharing)
 
 ## Algorithmic Design
 
