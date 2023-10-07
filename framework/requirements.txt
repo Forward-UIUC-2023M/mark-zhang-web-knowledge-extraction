@@ -1,0 +1,7 @@
+beautifulsoup4==4.12.2
+chardet==5.2.0
+feedparser==6.0.10
+guidance==0.0.64
+HTMLParser==0.0.2
+playwright==1.36.0
+python-dotenv==1.0.0
